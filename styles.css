@@ -18,10 +18,6 @@ body {
 }
 
 /* Header */
-.header-container {
-
-}
-
 .header {
     display: flex;
     width: 70%;
